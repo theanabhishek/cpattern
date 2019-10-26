@@ -9,7 +9,7 @@ int main()
 		if(j<=i)
 		printf("%d",i);
 		printf("\n");
-		
+		// good code
 	}
 
 return 0;
